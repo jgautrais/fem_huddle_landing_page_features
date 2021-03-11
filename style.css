@@ -150,7 +150,6 @@ header {
 }
 
 button#try {
-  -webkit-appearance: button;
   font-family: 'Open Sans', sans-serif;
   font-weight: 600;
   font-size: 13px;
