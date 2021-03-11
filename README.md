@@ -5,4 +5,4 @@
 - HTML&CSS
 - Flexbox
 
-Live preview --> https://fem-huddle-landing-page-features.vercel.app/
+Live preview --> https://fem-huddle-landing-page-features-l2qfpazwe-jgautrais.vercel.app/
