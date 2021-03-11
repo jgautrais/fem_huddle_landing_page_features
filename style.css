@@ -150,7 +150,15 @@ header {
 }
 
 button#try {
-  
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  border: none;
+  padding: 0.5vw 2.2vw;
+  border-radius: 2vw;
+  background: white;
+  box-shadow: 0 3px 10px  hsl(0, 0%, 80%);
+  color: hsl(192, 100%, 9%);
 }
 
 button#try:hover {
